@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "A pseudo-mathematician's apology"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Gwang Hyeon Choi"
+description              : &description "Ph.D Student at Seoul National University"
 url                      : https://cgh1392.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cgh1392/cgh1392.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gwang Hyeon Choi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D student of Numerical Computing and Image Anlysis lab at Seoul National University"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : 
